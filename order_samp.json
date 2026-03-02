@@ -1,0 +1,36 @@
+{
+    "1":
+    {
+        "userID": "845593970931138570",
+        "msgID": "1051296972121833492",
+        "fileMultiple?": "False",
+        "fileUrl": {
+            
+        },
+        "msg": "ok我終於把分類用好了ayooo"
+    },
+    "2":
+    {
+        "userID": "845593970931138570",
+        "msgID": "1051296925829300244",
+        "fileMultiple?": "True",
+        "fileUrl": {
+            "1": "dddddddddddd"
+        },
+        "msg": "ok我終於把分類用好了ayooo"
+    },
+    "3":
+    {
+        "userID": "812952449152450570",
+        "msgID": "1051297284417134622",
+        "fileMultiple?": "True",
+        "fileUrl": {
+            "1": "dddddddddddd",
+            "2": "ssssssss",
+            "3": "?!!?!??!"
+        },
+        "msg": "**ok我終於把分類用好了ayooo**"
+
+    }
+}
+
